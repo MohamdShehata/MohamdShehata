@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shehata</h1>
 <h3 align="center">Code By Day , Explore By Night And Adventure Full Time</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamdshehata&label=Profile%20views&color=0e75b6&style=flat" alt="mohamdshehata" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamdshehata" alt="mohamdshehata" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@mohmedshehataa" target="blank"><img src="https://img.shields.io/twitter/follow/@mohmedshehataa?logo=twitter&style=for-the-badge" alt="@mohmedshehataa" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps**
 

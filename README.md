@@ -22,4 +22,3 @@
 
 <p><img align="left" src="https://stats.quira.sh/MohamdShehata/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=MohamdShehata" alt="mohamdshehata" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamdshehata&show_icons=true&locale=en" alt="mohamdshehata" /></p>

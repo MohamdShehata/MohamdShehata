@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shehata</h1>
 <h3 align="center">Code By Day , Explore By Night And Adventure Full Time</h3>
-[![MohamdShehata's GitHub | Stats](https://stats.quira.sh/MohamdShehata/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=MohamdShehata)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamdshehata&label=Profile%20views&color=0e75b6&style=flat" alt="mohamdshehata" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamdshehata" alt="mohamdshehata" /></a> </p>

@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/mohamdshehata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamdshehata" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mohamed-shehata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamed-shehata" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mohamed%20shehata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamed%20shehata" height="30" width="40" /></a>
 </p>
@@ -23,4 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamdshehata&show_icons=true&locale=en&layout=compact" alt="mohamdshehata" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamdshehata&show_icons=true&locale=en" alt="mohamdshehata" /></p>
-
